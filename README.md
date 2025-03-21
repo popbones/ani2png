@@ -5,7 +5,7 @@ ani2png is a Python script the converts Windows animated mouse cursor file (.ani
 [Mousecape](https://github.com/alexzielenski/Mousecape) is a macOS utility that changes the mouse cursor.
 In Mousecape, a cursor theme/package is called a "cape".
 While there are many good "capes" out there, they are not as diverse and quirky like Windows cursors.
-For example this [Boochi Bocchi the Rock!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) I purchased from [bilibili](https://www.bilibili.com/video/BV1yjwWeTEtH/?share_source=copy_web&vd_source=171e667bc748e9fa6eceb9695cf79762).
+For example this [Bocchi the Rock!](https://en.wikipedia.org/wiki/Bocchi_the_Rock!) I purchased from [bilibili](https://www.bilibili.com/video/BV1yjwWeTEtH/?share_source=copy_web&vd_source=171e667bc748e9fa6eceb9695cf79762).
 
 [![Video](https://github.com/user-attachments/assets/b8173d05-f78e-45ab-9a54-3bef651a2e6c)](https://www.bilibili.com/video/BV1yjwWeTEtH/?share_source=copy_web&vd_source=171e667bc748e9fa6eceb9695cf79762)
 
